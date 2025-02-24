@@ -1,1 +1,1 @@
-{"model": "Random Forest"}
+{"n_estimators": 400, "max_depth": 48, "min_samples_split": 5, "min_samples_leaf": 2, "max_features": null, "bootstrap": true}
