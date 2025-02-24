@@ -1,1 +1,1 @@
-{"model": "MLP Classifier"}
+{"solver": "adam", "learning_rate": "invscaling", "hidden_layer_sizes": [50, 50], "activation": "relu", "alpha": 0.012086817626949433}
