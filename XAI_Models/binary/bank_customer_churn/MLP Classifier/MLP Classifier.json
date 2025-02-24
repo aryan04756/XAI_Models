@@ -1,1 +1,1 @@
-{"model": "MLP Classifier"}
+{"solver": "sgd", "learning_rate": "adaptive", "hidden_layer_sizes": [100, 50], "activation": "tanh", "alpha": 1.7892142730059628e-05}
