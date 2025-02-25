@@ -1,0 +1,2 @@
+Model,R2_Score,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error
+XGBoost,0.9831076289228934,67.16605704376718,101625.30466049988,318.7872404292554
