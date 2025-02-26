@@ -1,1 +1,1 @@
-{"model": "LSTM"}
+{"units": 94, "dropout": 0.4970729369787982, "units_2": 100, "dropout_2": 0.2174208460508459, "learning_rate": 0.0016680889134733142, "batch_size": 27}
