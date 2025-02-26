@@ -1,1 +1,1 @@
-{"model": "Prophet"}
+{"seasonality_mode": "additive", "changepoint_prior_scale": 0.06301357128374487, "seasonality_prior_scale": 0.02864930117923371}
